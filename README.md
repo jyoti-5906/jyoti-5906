@@ -2,9 +2,9 @@
 
 # Hi 👋, I'm Jyoti
 
-### 🚀 Open Source Contributor | 🎓 BCA Student | 💻 Aspiring Developer
+### 🚀 GSSoC 2026 Contributor | 🎓 BCA Student | 💻 Aspiring MERN Developer
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=9D4EDD&center=true&vCenter=true&width=500&lines=Welcome+to+my+GitHub!;GSSoC+2026+Contributor;BCA+Student+at+K.R.+Mangalam+University;Learning+and+Building+Every+Day" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=9D4EDD&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub!;Open+Source+Contributor;Aspiring+MERN+Stack+Developer;Learning+and+Building+Every+Day;BCA+Student+at+K.R.+Mangalam+University" />
 
 </div>
 
@@ -12,92 +12,65 @@
 
 ## 👩‍💻 About Me
 
-🎓 Pursuing **BCA** at **K.R. Mangalam University**
+🎓 BCA Student at K.R. Mangalam University
 
-🌱 Currently learning:
-- HTML5
-- CSS3
-- Python
-- C++
-- Open Source Development
+🚀 Active Contributor in GirlScript Summer of Code (GSSoC) 2026
 
-🚀 Active Contributor in **GirlScript Summer of Code (GSSoC) 2026**
+💻 Exploring Full-Stack Web Development
 
-💡 Interested in:
-- Web Development
-- Open Source
-- Problem Solving
-- AI & Technology
+🌱 Currently Learning MERN Stack Development
+
+🔥 Passionate About Open Source, Web Development & Technology
+
+📫 Email: **[jyotikarayat05@gmail.com](mailto:jyotikarayat05@gmail.com)**
+
+🔗 LinkedIn: **[www.linkedin.com/in/jyotikarayat/](http://www.linkedin.com/in/jyotikarayat/)**
 
 ---
 
 ## 🛠️ Tech Stack
 
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=html,css,python,cpp,vscode,github,git" />
-
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,mongodb,python,cpp,git,github,vscode" />
 </p>
 
 ---
 
 ## 📊 GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=jyoti-5906&show_icons=true&theme=tokyonight"/>
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jyoti-5906&layout=compact&theme=tokyonight"/>
-
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=jyoti-5906&show_icons=true&theme=radical" />
 </p>
-
 ---
 
-## 🔥 GitHub Streak
+## 🏆 Open Source Journey
 
-<p align="center">
+🌟 GSSoC 2026 Contributor
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=jyoti-5906&theme=tokyonight"/>
+🚀 Contributing to Real-World Open Source Projects
 
-</p>
+💻 Learning Collaboration Through GitHub
 
----
+📚 Improving Development Skills Through Hands-On Contributions
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=jyoti-5906&theme=tokyonight&no-frame=true&margin-w=15"/>
-
-</p>
-
----
-
-## 🚀 Open Source Journey
-
-✨ Contributing to real-world projects through GSSoC
-
-✨ Learning collaboration through Pull Requests
-
-✨ Improving coding and development skills every day
+🔥 Growing One Pull Request at a Time
 
 ---
 
 ## 📈 Contribution Graph
 
 <p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=jyoti-5906&theme=tokyo-night"/>
-
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=jyoti-5906&theme=react-dark"/>
 </p>
 
 ---
 
-## 📫 Connect With Me
+## 🌐 Connect With Me
 
 <p align="center">
 
-<a href="https://www.linkedin.com">
+<a href="https://www.linkedin.com/in/jyotikarayat/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
@@ -111,7 +84,7 @@
 
 <div align="center">
 
-### 🌸 "Every expert was once a beginner."
+### 🌸 Every expert was once a beginner.
 
 ⭐ Thanks for visiting my profile!
 
